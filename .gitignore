@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
